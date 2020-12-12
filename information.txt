@@ -1,1 +1,8 @@
+Element
 
+Syntax
+
+How to Use
+When a certain element has layout content that might not fit the height of a screen, use this to make it vertically scrollable.
+
+Example
